@@ -1,0 +1,56 @@
+.{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    height:100vh;
+    width: 100%;
+    background-color: rgb(226, 224, 221);
+    
+}
+.jumbotron{
+    padding: 20px;
+    padding-bottom: 300px;
+    background-color: rgb(226, 224, 221);
+}
+span{
+    color: rgb(25, 130, 216);
+}
+.pic1{
+    
+padding: 30px;
+
+}
+
+
+.para{
+    margin-left: 80px;
+    padding:20px ;
+}
+.social{
+    display: flex;
+    margin:auto ;
+    align-items: center;
+    padding: 20px 0;
+    justify-content: center;
+    background-color: darkgrey;
+    padding-bottom: 20px;
+
+}
+
+footer ui li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+    padding-bottom: 30px;
+}
+footer ui li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+footer ui li a:hover{
+    color:rgb(78, 179, 238)
+}
